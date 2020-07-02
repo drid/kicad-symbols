@@ -450,4 +450,10 @@ K supply voltage supervisor
 F http://www.ti.com/lit/ds/sbvs193d/sbvs193d.pdf
 $ENDCMP
 #
+$CMP TPS3870-Q1
+D Overvoltage Reset IC With Time Delay and Manual Reset, WSON-6
+K supply voltage supervisor
+F https://www.ti.com/lit/ds/symlink/tps3870-q1.pdf
+$ENDCMP
+#
 #End Doc Library
